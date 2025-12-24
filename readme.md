@@ -217,10 +217,10 @@ SHARE = True                                  # 是否生成公共链接
 
 - **作者**：jsj 等人
 - **课程**：软件工程实践
-- **机构**：南京大学计算机科学与技术系
+- **机构**：南京大学电子科学与工程学院
 
 ---
 
 <div align="center">
-Made with ❤️ for AI + 人文通识课
+Made with ❤️ for AI + 软件工程实践
 </div>
