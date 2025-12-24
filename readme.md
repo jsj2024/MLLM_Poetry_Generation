@@ -70,8 +70,8 @@ mllm-for-poetry-generation/
 1. **克隆项目**
 
 ```bash
-git clone https://github.com/your-username/ai-poetry-mirror.git
-cd ai-poetry-mirror
+git clone https://github.com/jsj2024/MLLM_Poetry_Generation.git
+cd MLLM_Poetry_Generation
 ```
 
 2. **创建虚拟环境**
