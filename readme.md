@@ -28,7 +28,7 @@ AI诗意镜是一个基于 Qwen3-VL-8B-Instruct 多模态视觉语言模型的�
 ## 🏗️ 项目架构
 
 ```
-ai-poetry-mirror/
+mllm-for-poetry-generation/
 ├── README.md                 # 项目说明文档
 ├── requirements.txt          # Python依赖包列表
 ├── .gitignore               # Git忽略文件配置
