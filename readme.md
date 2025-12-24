@@ -1,4 +1,4 @@
-# AI诗意镜 - AI Poetry Mirror
+# AI诗意镜
 
 <div align="center">
 
